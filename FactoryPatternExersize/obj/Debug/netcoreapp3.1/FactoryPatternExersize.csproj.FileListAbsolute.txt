@@ -1,0 +1,14 @@
+C:\Users\matt2\repos\FactoryPatternExersize\FactoryPatternExersize\bin\Debug\netcoreapp3.1\FactoryPatternExersize.exe
+C:\Users\matt2\repos\FactoryPatternExersize\FactoryPatternExersize\bin\Debug\netcoreapp3.1\FactoryPatternExersize.deps.json
+C:\Users\matt2\repos\FactoryPatternExersize\FactoryPatternExersize\bin\Debug\netcoreapp3.1\FactoryPatternExersize.runtimeconfig.json
+C:\Users\matt2\repos\FactoryPatternExersize\FactoryPatternExersize\bin\Debug\netcoreapp3.1\FactoryPatternExersize.runtimeconfig.dev.json
+C:\Users\matt2\repos\FactoryPatternExersize\FactoryPatternExersize\bin\Debug\netcoreapp3.1\FactoryPatternExersize.dll
+C:\Users\matt2\repos\FactoryPatternExersize\FactoryPatternExersize\bin\Debug\netcoreapp3.1\FactoryPatternExersize.pdb
+C:\Users\matt2\repos\FactoryPatternExersize\FactoryPatternExersize\obj\Debug\netcoreapp3.1\FactoryPatternExersize.csproj.AssemblyReference.cache
+C:\Users\matt2\repos\FactoryPatternExersize\FactoryPatternExersize\obj\Debug\netcoreapp3.1\FactoryPatternExersize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matt2\repos\FactoryPatternExersize\FactoryPatternExersize\obj\Debug\netcoreapp3.1\FactoryPatternExersize.AssemblyInfoInputs.cache
+C:\Users\matt2\repos\FactoryPatternExersize\FactoryPatternExersize\obj\Debug\netcoreapp3.1\FactoryPatternExersize.AssemblyInfo.cs
+C:\Users\matt2\repos\FactoryPatternExersize\FactoryPatternExersize\obj\Debug\netcoreapp3.1\FactoryPatternExersize.csproj.CoreCompileInputs.cache
+C:\Users\matt2\repos\FactoryPatternExersize\FactoryPatternExersize\obj\Debug\netcoreapp3.1\FactoryPatternExersize.dll
+C:\Users\matt2\repos\FactoryPatternExersize\FactoryPatternExersize\obj\Debug\netcoreapp3.1\FactoryPatternExersize.pdb
+C:\Users\matt2\repos\FactoryPatternExersize\FactoryPatternExersize\obj\Debug\netcoreapp3.1\FactoryPatternExersize.genruntimeconfig.cache
